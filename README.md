@@ -5,6 +5,9 @@ Calculate the BMI
 
   python bmi_calculate.py
   
+  
+# ##########
+  
 1. Script will ask you the BMI Input JSON FILE check the sample_bmi_input.json file which inside repository and prepare your input file and then provide the your input json file name with Absolute file path to the script
 
 2. if your path and data is correct so script will calculate the BMI for all entries
